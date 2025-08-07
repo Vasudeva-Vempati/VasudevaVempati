@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vasudeva Vempati</h1>
 <h3 align="center">A Cloud Engineer and Cloud Enthusiast</h3>
-img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/cloud-computing-3572896_3017342"
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-videos%2Fcloud-computing-animation&psig=AOvVaw3kaBAm7g4WlbrNdB-_RKM1&ust=1754682740076000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOjTxuq8-Y4DFQAAAAAdAAAAABAL">
 - 👯 I’m looking to collaborate on **Cloud Projects and Learnings**
 
 - 📝 I regularly write articles on [https://hashnode.com/@VASUDEVAVEMPATI](https://hashnode.com/@VASUDEVAVEMPATI)
